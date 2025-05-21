@@ -29,6 +29,12 @@ You will also need to have the following system applications installed:
 - `curl`
 - `lsof`
 
+Run this command to install curl and lsof on your system
+```
+sudo apt install curl lsof && export TERM=xterm
+```
+
+
 # To Connect Your Node to a Knowledge Base
 
 Official Documentation: https://docs.gaianet.ai/knowledge-bases/how-to/markdown
