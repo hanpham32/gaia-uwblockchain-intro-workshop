@@ -25,8 +25,11 @@ At UW Blockchain, we commit to foster an inclusive and diverse community. We pro
 # Team
 
 UW Seattle Op. Director: Leon Leng
+
 UW Bothell Op. Director: Yasmine Azia
+
 UW Tacoma Op. Director: Boda
+
 Board Advisor: Han Pham
 
 Our past events:
